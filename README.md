@@ -25,8 +25,12 @@ The dataset is from Kaggle ([Link](https://www.kaggle.com/datasets/ytgangster/on
 
 Overview of dataset:
 
+![image](https://github.com/mytrannn22/Cohort-Analysis/assets/140190425/73316003-dead-4395-874a-d9711ddb0007)
+
 
 Since the goal of this project is to analysize time-based cohorts, let's extract just necessary columns as follows:
+
+![image](https://github.com/mytrannn22/Cohort-Analysis/assets/140190425/78e863b3-6e5e-42bf-9dcb-6876845a0c4e)
 
 
 ### 4. About this Project
@@ -46,15 +50,20 @@ The project will follow these steps:
 ## II. Data Visualization
 
 ### 1. Number of Customers per Cohort
+![image](https://github.com/mytrannn22/Cohort-Analysis/assets/140190425/afde96c7-c254-44be-82b8-36d287123f11)
 
 
 ### 2. Customer Retention and Retention Rate
+![image](https://github.com/mytrannn22/Cohort-Analysis/assets/140190425/1f2f6b91-ce06-4d49-9622-6ed0dd2e6321)
 
+![image](https://github.com/mytrannn22/Cohort-Analysis/assets/140190425/243e155e-921b-4ef0-82fc-e7faf72348a4)
 
 ### 3. Cohorts by Quantity
+![image](https://github.com/mytrannn22/Cohort-Analysis/assets/140190425/d0adcd6b-c3c2-4cde-8b95-856468d6ebb4)
 
 
 ### 4. Cohorts by Revenue
+![image](https://github.com/mytrannn22/Cohort-Analysis/assets/140190425/0ef4b796-e34a-4c7a-bcbd-7fad8a8abe54)
 
 
 ## III. Insights 
