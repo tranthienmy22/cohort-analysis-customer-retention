@@ -24,10 +24,12 @@ Using Python to create time-based cohorts analysis that allows stakeholders to a
 The dataset is from Kaggle ([Link](https://www.kaggle.com/datasets/ytgangster/online-sales-in-usa)), consists of 36 columns and 286392 entries, records online sales data of different products, several merchandise and electronic in different states in USA from October 2020 to September 2021. 
 
 Overview of dataset:
+
 ![image](https://github.com/mytrannn22/Cohort-Analysis/assets/140190425/73316003-dead-4395-874a-d9711ddb0007)
 
 
 Since the goal of this project is to analysize time-based cohorts, let's extract just necessary columns as follows:
+
 ![image](https://github.com/mytrannn22/Cohort-Analysis/assets/140190425/78e863b3-6e5e-42bf-9dcb-6876845a0c4e)
 
 
